@@ -1,0 +1,4 @@
+ismailcifci,100,cyber security,Ankara,25.12.2020
+ismailcifci,101,Machine Learning,İzmir,29.12.2020
+ismailcifci,100,cyber security,Ankara,25.12.2020
+

@@ -1,0 +1,3 @@
+user,user,user,user,Male,Ankara,ismail190330@gmail.com,22
+user2,user2,user2,user2,Male,Osmaniye,ismail190330@hotmail.com,23
+
